@@ -33,4 +33,6 @@ elif st.session_state["page"] == "chat":
 
 elif st.session_state["page"] == "hospital":
     st.header("🗂️ Hospital Finder")
-    st.info("🏥 (병원 검색 기능 연결 예정)")
+    from hospital import run_hospital_finder
+
+    run_hospital_finder()
