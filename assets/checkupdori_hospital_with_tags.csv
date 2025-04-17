@@ -1,0 +1,11 @@
+병원이름,지역,주소,건강검진 유형,전화번호,웹사이트,관심분야
+서울대학교병원 강남센터,강남구,서울특별시 강남구 테헤란로 152,"종합검진, 특수검진, 여성검진",02-2112-5000,https://dept.snuh.org/dept/HPC/index.do,"Cardiovascular Health, Gastrointestinal Health, Neurological Health"
+세브란스병원 건강검진센터,서대문구,서울특별시 서대문구 연세로 50,"종합검진, 프리미엄검진, 비자검진",1599-1004,https://sev.severance.healthcare,"Women's Health, Neurological Health, Gastrointestinal Health"
+삼성서울병원 건강검진센터,강남구,서울특별시 강남구 일원로 81,"종합검진, 프리미엄검진, 여성검진",02-3410-3000,https://www.samsunghospital.com,"Bone Health, Cardiovascular Health, Pulmonary Health"
+서울아산병원 건강검진센터,송파구,서울특별시 송파구 올림픽로43길 88,"종합검진, 특수검진, 여성검진, 프리미엄검진",1688-7575,https://health.amc.seoul.kr,"Gastrointestinal Health, Women's Health, Neurological Health"
+국립중앙의료원 건강증진센터,중구,서울특별시 중구 을지로 245,"종합검진, 특수검진",02-2260-7114,https://www.nmc.or.kr,"Cardiovascular Health, Pulmonary Health"
+한국건강관리협회 서울강서지부,강서구,서울특별시 강서구 화곡로 323,"국가건강검진, 종합검진",02-2600-2000,https://www.kahp.or.kr,General Health Screening
+서울베스트의료의원,강서구,서울특별시 강서구 공항대로 227,"종합검진, 국가건강검진",02-3661-8275,https://blog.naver.com/seoulbestmc,"Gastrointestinal Health, General Health Screening"
+서울세계로병원,강서구,서울특별시 강서구 허준로 217,"종합검진, 특수검진",02-2063-1700,https://www.seoulsegyero.com,"Cardiovascular Health, Bone Health"
+필립메디컬센터,성남시 (서울 인접),경기도 성남시 수정구 산성대로 83,"종합검진, 비자검진",031-730-7114,https://www.philipmed.com,"Gastrointestinal Health, Visa Screening"
+강북삼성병원 건강검진센터,종로구,서울특별시 종로구 새문안로 29,"종합검진, 프리미엄검진, 특수검진",02-2001-2001,https://www.kbsmc.co.kr,"Cardiovascular Health, Neurological Health, Premium Screening"

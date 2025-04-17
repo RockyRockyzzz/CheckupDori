@@ -11,7 +11,7 @@ if "page" not in st.session_state:
 
 # 페이지 네비게이션
 if st.session_state["page"] == "start":
-    st.image("dori.png", width=200)  # 도리 이미지 출력
+    st.image("assets/dori.png", width=200)  # 도리 이미지 출력
     st.title("🦉 Welcome to CheckupDori!")
     st.subheader("Your friendly health checkup guide in Korea 🇰🇷")
     st.write(
